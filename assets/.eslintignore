@@ -1,3 +1,4 @@
 node_modules/*
 **/static/*.js
 static/**/*.js
+// ${cwd}: the current working directory of the spawned process
